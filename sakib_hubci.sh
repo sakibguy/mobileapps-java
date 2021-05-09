@@ -66,7 +66,7 @@ echo
 ## Default: Commit skipped|forgotten
 ## 🎯  #6 : 
 
-git commit -m "cleanup, sakib_hubci.sh, README.md"
+git commit -m "obstacle 1: MICROLEARN"
 
 ############
 # Step: 05 #

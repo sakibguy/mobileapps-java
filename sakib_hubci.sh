@@ -66,7 +66,7 @@ echo
 ## Default: Commit skipped|forgotten
 ## 🎯  #6 : 
 
-git commit -m "obstacle 1: MICROLEARN"
+git commit -m "obstacle 1: MICROLEARN UI 2.0"
 
 ############
 # Step: 05 #

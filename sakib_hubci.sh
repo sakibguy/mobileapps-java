@@ -104,6 +104,6 @@ git remote -v
 echo
 echo 08. Pushing local codebase to remote repo...Repo-to-repo collaboration: git push
 echo
-git push origin master
+git push origin main
 
 git push --all -f https://github.com/sakib-rahman-bangladesh/makeapp-footballinsider.git

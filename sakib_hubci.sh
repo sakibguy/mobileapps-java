@@ -86,7 +86,7 @@ git remote -v
 echo
 echo [ Done ]  Updating remote URL.
 
-git remote set-url origin https://github.com/sakib-rahman-bangladesh/makeapp-footballinsider.git
+git remote set-url origin https://github.com/sakib-rahman-bangladesh/java-android-apps.git
 
 ############
 # Step: 07 #
@@ -106,4 +106,4 @@ echo 08. Pushing local codebase to remote repo...Repo-to-repo collaboration: git
 echo
 git push origin main
 
-git push --all -f https://github.com/sakib-rahman-bangladesh/makeapp-footballinsider.git
+git push --all -f https://github.com/sakib-rahman-bangladesh/java-android-apps.git
